@@ -5,5 +5,5 @@ Making the world a better place...through constructing elegant hierarchies for m
 </a>
 <br/>
 <a href="https://github.com/adrianlshaw">
-  <img align="center" width="49%" src="./iso-calendar.svg" />
+  <img align="center" width="49%" src="./iso_calendar.svg" />
 </a>
